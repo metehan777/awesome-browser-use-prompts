@@ -2,6 +2,8 @@
 
 A curated collection of effective prompts for Browser-Use, the framework that enables AI agents to control web browsers. This repository aims to provide examples, templates, and best practices for crafting prompts that maximize the capabilities of Browser-Use agents.
 
+IMPORTANT NOTE: [CONTINUE HERE](https://github.com/browser-use/awesome-prompts)
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
